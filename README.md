@@ -1,2 +1,2 @@
 # Snake-Game
-simple snake game with image and python script
+simple snake game with image, txt and python script
